@@ -27,7 +27,7 @@ SumatraPDF
 VSCode
 Visual Studio
 llvm
-
+<br />
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amd.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intel.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wolframlanguage.svg" />]
@@ -35,10 +35,10 @@ llvm
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackexchange.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wikipedia.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows95.svg" />]
-[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows95.svg" />]
+[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arxiv.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
