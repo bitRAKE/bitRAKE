@@ -56,6 +56,11 @@ llvm
 ---
 ### 📺 Latest YouTube Videos 📸
 <!-- YOUTUBE:START -->
+- [Here comes the rain... (5k)](https://www.youtube.com/watch?v=Tf56kmEgQ3U)
+- [Before the Rain, Too (5k)](https://www.youtube.com/watch?v=gosEuURevJw)
+- [Sunrise (5k)](https://www.youtube.com/watch?v=TEMBszAObUo)
+- [Before the Rain 5K](https://www.youtube.com/watch?v=D6vXPxbaYdU)
+- [My Edited Video](https://www.youtube.com/watch?v=rHLpbPUATCM)
 <!-- YOUTUBE:END -->
 ---
 ### 📕 Latest Blog Posts
