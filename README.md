@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/bitRAKE"><img src="https://img.shields.io/github/followers/bitRAKE.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://twitter.com/bitRAKE"><img src="https://img.shields.io/twitter/follow/bitRAKE?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://twitter.com/bitRAKE0"><img src="https://img.shields.io/twitter/follow/bitRAKE?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/bitRAKE"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/sponsors/bitRAKE"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
