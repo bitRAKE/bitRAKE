@@ -19,14 +19,14 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](/icons/fasm.png?raw=true)](https://flatassembler.net/)
-[![HxD](/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
-[![Notepad++](/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
-[![x64dbg](/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
-[![Dependancies](/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
-[![ProcessHacker](/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
-[![Resource Hacker](/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
-[![SumatraPDF](/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[![fasmg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![HxD](https://github.com/bitRAKE/bitRAKE/tree/master/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
+[![Notepad++](https://github.com/bitRAKE/bitRAKE/tree/master/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
+[![x64dbg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
+[![Dependancies](https://github.com/bitRAKE/bitRAKE/tree/master/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
+[![ProcessHacker](https://github.com/bitRAKE/bitRAKE/tree/master/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
+[![Resource Hacker](https://github.com/bitRAKE/bitRAKE/tree/master/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
+[![SumatraPDF](https://github.com/bitRAKE/bitRAKE/tree/master/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 <br />
 VSCode
 Visual Studio
