@@ -19,14 +19,14 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](/icons/fasm.ico?raw=true)](https://flatassembler.net/)
-[![HxD](/icons/HxD.ico?raw=true)](https://mh-nexus.de/en/hxd/)
-[![Notepad++](/icons/N++.ico?raw=true)](https://notepad-plus-plus.org/)
-[![x64dbg](/icons/x64dbg.ico?raw=true)](https://x64dbg.com/)
-[![Dependancies](/icons/Dependancies.ico?raw=true)](https://github.com/lucasg/Dependencies)
-[![ProcessHacker](/icons/PH.ico?raw=true)](https://processhacker.sourceforge.io/)
-[![Resource Hacker](/icons/RH.ico?raw=true)](http://www.angusj.com/resourcehacker/)
-[![SumatraPDF](/icons/SumatraPDF.ico?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[![fasmg](/icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![HxD](/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
+[![Notepad++](/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
+[![x64dbg](/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
+[![Dependancies](/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
+[![ProcessHacker](/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
+[![Resource Hacker](/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
+[![SumatraPDF](/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 VSCode
 Visual Studio
 llvm
