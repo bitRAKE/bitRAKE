@@ -1,5 +1,5 @@
 ### Good day, 👋
-my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website] on the internet. Typically, I am immersed in research and independent software development.
+my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website]. Typically, I am immersed in research and independent software development.
 
 ## I'm a student of the universe:
 - 🔭 I’m currently working on something cool 😉
@@ -19,8 +19,8 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/?fasm.png?raw=true)](https://flatassembler.net/)
-[![HxD](https://github.com/bitRAKE/bitRAKE/tree/master/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
+[![fasmg](../master/icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![HxD](./icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
 [![Notepad++](https://github.com/bitRAKE/bitRAKE/tree/master/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
 [![x64dbg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
 [![Dependancies](https://github.com/bitRAKE/bitRAKE/tree/master/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
@@ -44,12 +44,14 @@ llvm
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br />
-
+---
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 ### 📺 Latest YouTube Videos 📸
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
 ---
 ### 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
@@ -57,9 +59,24 @@ llvm
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 ---
 <img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
+
+
+<!--START_SECTION:table-->
+<details>
+<summary>On the Top</summary>
+| Fe | Fi | Foe | Fum |
+| :---: | :---: | :---: | :---: |
+| don't | drink | the | rum |
+</details>
+<details>
+<summary>Almost There</summary>
+| Color | Type | Count |
+| :---: | :---: | :---: |
+| blue | taco | 1.7 |
+</details>
+<!--END_SECTION:table-->
 
 [website]: https://bitRAKE.code
 [twitter]: https://twitter.com/bitRAKE
