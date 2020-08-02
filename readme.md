@@ -1,8 +1,11 @@
-### Good day, my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website] 👋
+### Good day, 👋
+my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website] on the internet. Typically, I am immersed in research and independent software development.
 
 ## I'm a student of the universe:
-- 🔭 Enjoy reading science and mathematics papers.
-- ⚡ Fun fact: I am a self-taught programmer.
+- 🔭 I’m currently working on something cool 😉
+- 📕 Enjoy reading science and mathematics books/papers.
+- 📫 How to reach me: @gmail.com (use my handle)
+- ⚡ Fun fact: self-taught programmer, since 1983.
 
 ### Connect with me:
 
@@ -16,17 +19,22 @@
 
 ### Languages and Tools:
 
-fasmg
-HxD
-Notepad++
-x64dbg
-Dependancies
-ProcessHacker
-Resource Hacker
-SumatraPDF
+[![fasmg](/icons/fasm.ico?raw=true)](https://flatassembler.net/)
+[![HxD](/icons/HxD.ico?raw=true)](https://mh-nexus.de/en/hxd/)
+[![Notepad++](/icons/N++.ico?raw=true)](https://notepad-plus-plus.org/)
+[![x64dbg](/icons/x64dbg.ico?raw=true)](https://x64dbg.com/)
+[![Dependancies](/icons/Dependancies.ico?raw=true)](https://github.com/lucasg/Dependencies)
+[![ProcessHacker](/icons/PH.ico?raw=true)](https://processhacker.sourceforge.io/)
+[![Resource Hacker](/icons/RH.ico?raw=true)](http://www.angusj.com/resourcehacker/)
+[![SumatraPDF](/icons/SumatraPDF.ico?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 VSCode
 Visual Studio
 llvm
+
+<br />
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amd.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intel.svg" />]
@@ -35,21 +43,23 @@ llvm
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackexchange.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wikipedia.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows95.svg" />]
-[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows95.svg" />]
+[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arxiv.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
 <br />
 
 ---
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos 📸
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 ### 📕 Latest Blog Posts
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
