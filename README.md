@@ -1,3 +1,12 @@
+<p align="center">
+<a href="https://github.com/bitRAKE"><img src="https://img.shields.io/github/followers/bitRAKE.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/bitRAKE"><img src="https://img.shields.io/twitter/follow/bitRAKE?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/bitRAKE"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/sponsors/bitRAKE"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+</p>
+
+**Now Playing** on Spotify
+
 ### Good day, 👋
 my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website]. Typically, I am immersed in research and independent software development.
 
@@ -19,7 +28,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![fasmg](https://github.com/bitRAKE/bitRAKE/blob/master/icons/fasm.png)](https://flatassembler.net/)
 [![HxD](icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
 [![Notepad++](icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
 [![x64dbg](icons/x64dbg.png?raw=true)](https://x64dbg.com/)

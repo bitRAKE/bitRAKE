@@ -2,8 +2,6 @@ name: Latest YouTube Videos
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
   update-readme-with-youtube:
