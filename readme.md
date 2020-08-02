@@ -19,7 +19,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![fasmg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/?fasm.png?raw=true)](https://flatassembler.net/)
 [![HxD](https://github.com/bitRAKE/bitRAKE/tree/master/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
 [![Notepad++](https://github.com/bitRAKE/bitRAKE/tree/master/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
 [![x64dbg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
