@@ -27,15 +27,11 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 [![ProcessHacker](/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
 [![Resource Hacker](/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
 [![SumatraPDF](/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+<br />
 VSCode
 Visual Studio
 llvm
-
 <br />
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amd.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intel.svg" />]
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wolframlanguage.svg" />]
@@ -47,7 +43,6 @@ llvm
 [<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arxiv.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 
 ---
