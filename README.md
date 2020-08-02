@@ -20,13 +20,13 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 ### Languages and Tools:
 
 [![fasmg](icons/fasm.png?raw=true)](https://flatassembler.net/)
-[![HxD](./icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
-[![Notepad++](./icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
-[![x64dbg](./icons/x64dbg.png?raw=true)](https://x64dbg.com/)
-[![Dependancies](./icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
-[![ProcessHacker](./icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
-[![Resource Hacker](./icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
-[![SumatraPDF](../bitRAKE/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[![HxD](icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
+[![Notepad++](icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
+[![x64dbg](icons/x64dbg.png?raw=true)](https://x64dbg.com/)
+[![Dependancies](icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
+[![ProcessHacker](icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
+[![Resource Hacker](icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
+[![SumatraPDF](icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 <br />
 VSCode
 Visual Studio
@@ -51,31 +51,29 @@ llvm
 ---
 ### 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
-- [Comment by bitRAKE on How to read Import Directory Table in C](https://stackoverflow.com/questions/15960437/how-to-read-import-directory-table-in-c/17457077#17457077)
-- [Answer by bitRAKE for Is there any good assembly generation module for Python?](https://stackoverflow.com/questions/15175315/is-there-any-good-assembly-generation-module-for-python/17410146#17410146)
-- [Answer by bitRAKE for Is there a way to keep a word sized immediate in a 32bit register instruction](https://stackoverflow.com/questions/17379499/is-there-a-way-to-keep-a-word-sized-immediate-in-a-32bit-register-instruction/17396695#17396695)
-- [Comment by bitRAKE on How can I have masm to generate just machine code?](https://stackoverflow.com/questions/14251913/how-can-i-have-masm-to-generate-just-machine-code/15727495#15727495)
-- [Comment by bitRAKE on Initialize separate CPU cores in bootloader](https://stackoverflow.com/questions/13373858/initialize-separate-cpu-cores-in-bootloader)
 <!-- STACKOVERFLOW:END -->
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
 <img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
----
+<br />
 <!--START_SECTION:table-->
+
 <details>
 <summary>On the Top</summary>
 | Fe | Fi | Foe | Fum |
 | :---: | :---: | :---: | :---: |
 | don't | drink | the | rum |
 </details>
+
 <details>
 <summary>Almost There</summary>
 | Color | Type | Count |
 | :---: | :---: | :---: |
 | blue | taco | 1.7 |
 </details>
+
 <!--END_SECTION:table-->
 
 [website]: https://bitRAKE.code
