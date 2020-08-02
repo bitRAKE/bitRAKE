@@ -19,14 +19,14 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 ### Languages and Tools:
 
-[![fasmg](../master/icons/fasm.png?raw=true)](https://flatassembler.net/)
+[![fasmg](icons/fasm.png?raw=true)](https://flatassembler.net/)
 [![HxD](./icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
-[![Notepad++](https://github.com/bitRAKE/bitRAKE/tree/master/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
-[![x64dbg](https://github.com/bitRAKE/bitRAKE/tree/master/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
-[![Dependancies](https://github.com/bitRAKE/bitRAKE/tree/master/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
-[![ProcessHacker](https://github.com/bitRAKE/bitRAKE/tree/master/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
-[![Resource Hacker](https://github.com/bitRAKE/bitRAKE/tree/master/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
-[![SumatraPDF](https://github.com/bitRAKE/bitRAKE/tree/master/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[![Notepad++](./icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
+[![x64dbg](./icons/x64dbg.png?raw=true)](https://x64dbg.com/)
+[![Dependancies](./icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
+[![ProcessHacker](./icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
+[![Resource Hacker](./icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
+[![SumatraPDF](../bitRAKE/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 <br />
 VSCode
 Visual Studio
@@ -45,10 +45,6 @@ llvm
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br />
 ---
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
 ### 📺 Latest YouTube Videos 📸
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
@@ -61,8 +57,7 @@ llvm
 <!-- BLOG-POST-LIST:END -->
 ---
 <img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
-
-
+---
 <!--START_SECTION:table-->
 <details>
 <summary>On the Top</summary>
