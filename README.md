@@ -70,13 +70,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 - [Comment by bitRAKE on Initialize separate CPU cores in bootloader](https://stackoverflow.com/questions/13373858/initialize-separate-cpu-cores-in-bootloader)
 <!-- STACKOVERFLOW:END -->
 ---
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
-<img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
-<br />
 <!--START_SECTION:table-->
-
 <details>
 <summary>Online Tools:</summary>
 
@@ -88,18 +82,21 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 [Observable](https://observablehq.com/)
 
 </details>
-
 <details>
 <summary>Blogs to Read:</summary>
 
 [StuffedCow](https://blog.stuffedcow.net/)
 
 </details>
+<details>
 <summary>Forums:</summary>
 
 [encode](https://encode.su/forum.php)
 
+</details>
 <!--END_SECTION:table-->
+<br />
+<img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
 
 [website]: https://bitRAKE.code
 [twitter]: https://twitter.com/bitRAKE
