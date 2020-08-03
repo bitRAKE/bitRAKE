@@ -78,18 +78,26 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 <!--START_SECTION:table-->
 
 <details>
-<summary>On the Top</summary>
-| Fe | Fi | Foe | Fum |
-| :---: | :---: | :---: | :---: |
-| don't | drink | the | rum |
+<summary>Online Tools:</summary>
+
+[Compiler Explorer](https://gcc.godbolt.org/)
+[ShaderToy](https://www.shadertoy.com/)
+[JSON Edit](http://jsoneditoronline.org/)
+[Desmos](https://www.desmos.com/)
+[CodePen](https://codepen.io/)
+[Observable](https://observablehq.com/)
+
 </details>
 
 <details>
-<summary>Almost There</summary>
-| Color | Type | Count |
-| :---: | :---: | :---: |
-| blue | taco | 1.7 |
+<summary>Blogs to Read:</summary>
+
+[StuffedCow](https://blog.stuffedcow.net/)
+
 </details>
+<summary>Forums:</summary>
+
+[encode](https://encode.su/forum.php)
 
 <!--END_SECTION:table-->
 
