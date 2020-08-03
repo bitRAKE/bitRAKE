@@ -74,24 +74,25 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 <details>
 <summary>Online Tools:</summary>
 
-[Compiler Explorer](https://gcc.godbolt.org/)
-[ShaderToy](https://www.shadertoy.com/)
-[JSON Edit](http://jsoneditoronline.org/)
-[Desmos](https://www.desmos.com/)
-[CodePen](https://codepen.io/)
-[Observable](https://observablehq.com/)
+- [Compiler Explorer](https://gcc.godbolt.org/)
+- [ShaderToy](https://www.shadertoy.com/)
+- [JSON Edit](http://jsoneditoronline.org/)
+- [Desmos](https://www.desmos.com/)
+- [CodePen](https://codepen.io/)
+- [Observable](https://observablehq.com/)
 
 </details>
 <details>
 <summary>Blogs to Read:</summary>
 
-[StuffedCow](https://blog.stuffedcow.net/)
+- [StuffedCow](https://blog.stuffedcow.net/)
 
 </details>
 <details>
 <summary>Forums:</summary>
 
-[encode](https://encode.su/forum.php)
+- [fasm](https://board.flatassembler.net/index.php)
+- [encode](https://encode.su/forum.php)
 
 </details>
 <!--END_SECTION:table-->
