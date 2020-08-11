@@ -76,6 +76,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 - [Compiler Explorer](https://gcc.godbolt.org/)
 - [ShaderToy](https://www.shadertoy.com/)
+- [The Book of Shaders](https://thebookofshaders.com/)
 - [JSON Edit](http://jsoneditoronline.org/)
 - [Desmos](https://www.desmos.com/)
 - [CodePen](https://codepen.io/)
@@ -99,8 +100,14 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 <br />
 <img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)][donate]
+<br />
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q62RV22AKAX7A)
+
+
 [website]: https://bitRAKE.code
 [twitter]: https://twitter.com/bitRAKE
 [youtube]: https://youtube.com/bitRAKE
 [instagram]: https://instagram.com/bitRAKE
 [facebook]: https://facebook.com
+[donate]: https://paypal.me/bitRAKE
