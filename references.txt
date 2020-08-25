@@ -1,5 +1,7 @@
 https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 https://github.com/bdougie/bdougie
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 
 ideas:
 
