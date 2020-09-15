@@ -87,6 +87,8 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 - [Stuffed Cow](https://blog.stuffedcow.net/)
 - [Futility Closet](https://www.futilitycloset.com/)
+- [strchr](https://www.strchr.com/)
+- [Daniel Lemire](https://lemire.me/blog/)
 
 </details>
 <details>
