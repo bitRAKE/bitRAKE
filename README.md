@@ -17,10 +17,10 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 ### Connect with me:
 
 [<img align="left" alt="bitRAKE.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bitRAKE | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bitRAKE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bitRAKE | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bitRAKE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bitRAKE | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="bitRAKE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="bitRAKE | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="bitRAKE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,15 +39,15 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 [<img align="left" alt="VSCode" width="22px" src="https://code.visualstudio.com/assets/favicon.ico" />](https://github.com/microsoft/vscode)
 [<img align="left" alt="VSStudio" width="22px" src="https://devblogs.microsoft.com/wp-content/uploads/sites/44/2019/03/visual-studio.png" />](https://visualstudio.microsoft.com/downloads/)
 [<img align="left" alt="LLVM" width="22px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/mkqbfktqzgyxikmnc5ey" />](https://llvm.org/)
-[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amd.svg" />](https://developer.amd.com/resources/developer-guides-manuals/)
-[<img align="left" alt="Intel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intel.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
-[<img align="left" alt="Wolfram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wolframlanguage.svg" />](https://www.wolfram.com/language/)
-[<img align="left" alt="Mathematica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wolframmathematica.svg" />](https://blog.wolfram.com/)
-[<img align="left" alt="Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackexchange.svg" />](https://meta.stackexchange.com/users/824897/)
-[<img align="left" alt="Wiki" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wikipedia.svg" />](https://en.wikipedia.org/wiki/User:BitRAKE)
-[<img align="left" alt="Win95" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows95.svg" />](https://archive.org/details/windows_95_vdi)
-[<img align="left" alt="Windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/windows.svg" />](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
-[<img align="left" alt="arxiv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arxiv.svg" />](https://arxiv.org/archive/cs)
+[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/amd.svg" />](https://developer.amd.com/resources/developer-guides-manuals/)
+[<img align="left" alt="Intel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/intel.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
+[<img align="left" alt="Wolfram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wolframlanguage.svg" />](https://www.wolfram.com/language/)
+[<img align="left" alt="Mathematica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wolframmathematica.svg" />](https://blog.wolfram.com/)
+[<img align="left" alt="Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackexchange.svg" />](https://meta.stackexchange.com/users/824897/)
+[<img align="left" alt="Wiki" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wikipedia.svg" />](https://en.wikipedia.org/wiki/User:BitRAKE)
+[<img align="left" alt="Win95" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows95.svg" />](https://archive.org/details/windows_95_vdi)
+[<img align="left" alt="Windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows.svg" />](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
+[<img align="left" alt="arxiv" width="22px" src="https://cdn.jsdelivr.net/npm/ssimple-icons@4.8.0/icons/arxiv.svg" />](https://arxiv.org/archive/cs)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/dank-orb)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://ss64.com/index.html)
 <br />
