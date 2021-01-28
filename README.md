@@ -47,7 +47,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 [<img align="left" alt="Wiki" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wikipedia.svg" />](https://en.wikipedia.org/wiki/User:BitRAKE)
 [<img align="left" alt="Win95" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows95.svg" />](https://archive.org/details/windows_95_vdi)
 [<img align="left" alt="Windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows.svg" />](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
-[<img align="left" alt="arxiv" width="22px" src="https://cdn.jsdelivr.net/npm/ssimple-icons@4.8.0/icons/arxiv.svg" />](https://arxiv.org/archive/cs)
+[<img align="left" alt="arxiv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/arxiv.svg" />](https://arxiv.org/archive/cs)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/dank-orb)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://ss64.com/index.html)
 <br />
