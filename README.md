@@ -108,8 +108,8 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 
 
 [website]: https://bitRAKE.code
-[twitter]: https://twitter.com/bitRAKE
+[twitter]: https://twitter.com/_bitRAKE_
 [youtube]: https://youtube.com/bitRAKE
 [instagram]: https://instagram.com/bitRAKE
-[facebook]: https://facebook.com
+[facebook]: https://www.facebook.com/bitRAKE
 [donate]: https://paypal.me/bitRAKE
