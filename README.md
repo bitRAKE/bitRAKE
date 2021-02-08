@@ -76,7 +76,7 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 - [Compiler Explorer](https://gcc.godbolt.org/)
 - [ShaderToy](https://www.shadertoy.com/)
 - [The Book of Shaders](https://thebookofshaders.com/)
-- [draw.io](diagrams.net)
+- [draw.io](https://diagrams.net)
 - [JSON Edit](http://jsoneditoronline.org/)
 - [Desmos](https://www.desmos.com/)
 - [CodePen](https://codepen.io/)
