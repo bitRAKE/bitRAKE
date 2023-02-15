@@ -63,10 +63,11 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 ---
 ### 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
-- [Answer by bitRAKE for Is there any good assembly generation module for Python?](https://stackoverflow.com/questions/15175315/is-there-any-good-assembly-generation-module-for-python/17410146#17410146)
-- [Answer by bitRAKE for Is there a way to keep a word sized immediate in a 32bit register instruction](https://stackoverflow.com/questions/17379499/is-there-a-way-to-keep-a-word-sized-immediate-in-a-32bit-register-instruction/17396695#17396695)
-- [Answer by bitRAKE for How can I have masm to generate just machine code?](https://stackoverflow.com/questions/14251913/how-can-i-have-masm-to-generate-just-machine-code/15727495#15727495)
-- [Answer by bitRAKE for What segment is used by default in x86 indirect addressing?](https://stackoverflow.com/questions/3948961/what-segment-is-used-by-default-in-x86-indirect-addressing/3953158#3953158)
+- [Answer by bitRAKE for Use loop and xchg instruction in assembly language to swap the element in the array](https://stackoverflow.com/questions/74394403/use-loop-and-xchg-instruction-in-assembly-language-to-swap-the-element-in-the-ar/74399447#74399447)
+- [Answer by bitRAKE for my resizable background is not working after adding frame on the canvas](https://stackoverflow.com/questions/73956120/my-resizable-background-is-not-working-after-adding-frame-on-the-canvas/73956265#73956265)
+- [Answer by bitRAKE for How to set text button in tkinter as output from another method within same class?](https://stackoverflow.com/questions/73954400/how-to-set-text-button-in-tkinter-as-output-from-another-method-within-same-clas/73955111#73955111)
+- [Answer by bitRAKE for Tkinter - Center the frame in a row](https://stackoverflow.com/questions/73952040/tkinter-center-the-frame-in-a-row/73952078#73952078)
+- [Answer by bitRAKE for Functioning search bar for treeview in tkinter](https://stackoverflow.com/questions/73931046/functioning-search-bar-for-treeview-in-tkinter/73951482#73951482)
 <!-- STACKOVERFLOW:END -->
 ---
 <!--START_SECTION:table-->
