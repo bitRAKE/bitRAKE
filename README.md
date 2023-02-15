@@ -6,7 +6,7 @@
 </p>
 
 ### Good day, 👋
-my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website]. Typically, I am immersed in research and independent software development. Some of my x86 programming is archived at [asmcommunity.net](https://www.google.com/search?q=asmcommunity+%22bitRAKE%22). More recent at [flatassembler.net](https://www.google.com/search?q=asmcommunity+%22bitRAKE%22). And many more bits have been lost to entropy.
+my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website]. Typically, I am immersed in research and independent software development. Some of my x86 programming is archived at [asmcommunity.net](https://www.google.com/search?q=asmcommunity+%22bitRAKE%22). More recent at [flatassembler.net](https://board.flatassembler.net/search.php?search_author=bitRAKE). And many more bits have been lost to entropy.
 
 ## I'm a student of the universe:
 - 🔭 I’m currently working on something cool 😉
