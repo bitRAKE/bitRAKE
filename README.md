@@ -54,9 +54,9 @@ my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][websit
 ---
 ### 📺 Latest YouTube Videos 📸
 <!-- YOUTUBE:START -->
-- [Here comes the rain... (5k)](https://www.youtube.com/watch?v=Tf56kmEgQ3U)
-- [Before the Rain, Too (5k)](https://www.youtube.com/watch?v=gosEuURevJw)
-- [Sunrise (5k)](https://www.youtube.com/watch?v=TEMBszAObUo)
+- [Here comes the rain... &lpar;5k&rpar;](https://www.youtube.com/watch?v=Tf56kmEgQ3U)
+- [Before the Rain, Too &lpar;5k&rpar;](https://www.youtube.com/watch?v=gosEuURevJw)
+- [Sunrise &lpar;5k&rpar;](https://www.youtube.com/watch?v=TEMBszAObUo)
 - [Before the Rain 5K](https://www.youtube.com/watch?v=D6vXPxbaYdU)
 - [My Edited Video](https://www.youtube.com/watch?v=rHLpbPUATCM)
 <!-- YOUTUBE:END -->
