@@ -42,7 +42,9 @@ graph TD
 | **Twitter** | [@bitRAKE_hacked](https://twitter.com/bitRAKE_hacked) | Updates & Thoughts |
 | **YouTube** | [Channel Link](https://www.youtube.com/bitRAKE) | Visual Projects |
 
-###🧰 Preferred Toolchain**Development & Visualization**
+###🧰 Preferred Toolchain
+
+**Development & Visualization**
 
 * todo: ... (ask me if you need a tool for something)
 * [Compiler Explorer](https://godbolt.org/) - Interactive compiler analysis
