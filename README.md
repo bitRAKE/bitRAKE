@@ -1,117 +1,85 @@
-<p align="center">
-<a href="https://github.com/bitRAKE"><img src="https://img.shields.io/github/followers/bitRAKE.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://twitter.com/_bitRAKE_"><img src="https://img.shields.io/twitter/follow/bitRAKE?label=Twitter&style=social" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/bitRAKE"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/sponsors/bitRAKE"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
-</p>
 
-### Good day, 👋
-my name is Rickey Bowers, but on the internet I primarily go by [bitRAKE][website]. Typically, I am immersed in research and independent software development. Some of my x86 programming is archived at [asmcommunity.net](https://www.google.com/search?q=asmcommunity+%22bitRAKE%22). More recent at [flatassembler.net](https://board.flatassembler.net/search.php?search_author=bitRAKE). And many more bits have been lost to entropy.
+# Rickey Bowers Jr. (bitRAKE)
 
-## I'm a student of the universe:
-- 🔭 I’m currently working on something cool 😉
-- 📕 Enjoy reading science and mathematics books/papers.
-- 📫 How to reach me: @gmail.com (use my handle)
-- ⚡ Fun fact: self-taught programmer, since 1983.
+> Independent Software Developer | x86 & Number Theory Researcher | Idaho Falls, ID
 
-### Connect with me:
+Self-taught programmer since 1983 specializing in low-level optimization and system architecture. Primary focus includes research in x86 assembly (fasmg), UEFI exploration, and computational mathematics.
 
-[<img align="left" alt="bitRAKE.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bitRAKE | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bitRAKE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bitRAKE | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bitRAKE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/instagram.svg" />][instagram]
+### 🛠 Architecture & Focus
 
-<br />
+```mermaid
+graph TD
+    User(Rickey Bowers Jr.)
+    
+    subgraph Core_Competencies
+        ASM(x86 Assembly)
+        Math(Number Theory)
+        Sys(System Architecture)
+    end
+    
+    subgraph Current_Research
+        FASM(fasm/fasmg)
+        UEFI(UEFI Playground)
+        Opt(Optimization Algorithms)
+    end
+    
+    User --> ASM
+    User --> Math
+    User --> Sys
+    
+    ASM --> FASM
+    Sys --> UEFI
+    Math --> Opt
 
-### Languages and Tools:
+```
 
-[![fasmg](https://github.com/bitRAKE/bitRAKE/blob/master/icons/fasm.png)](https://flatassembler.net/)
-[![HxD](https://github.com/bitRAKE/bitRAKE/blob/master/icons/HxD.png?raw=true)](https://mh-nexus.de/en/hxd/)
-[![Notepad++](https://github.com/bitRAKE/bitRAKE/blob/master/icons/N++.png?raw=true)](https://notepad-plus-plus.org/)
-[![x64dbg](https://github.com/bitRAKE/bitRAKE/blob/master/icons/x64dbg.png?raw=true)](https://x64dbg.com/)
-[![Dependancies](https://github.com/bitRAKE/bitRAKE/blob/master/icons/Dependancies.png?raw=true)](https://github.com/lucasg/Dependencies)
-[![ProcessHacker](https://github.com/bitRAKE/bitRAKE/blob/master/icons/PH.png?raw=true)](https://processhacker.sourceforge.io/)
-[![Resource Hacker](https://github.com/bitRAKE/bitRAKE/blob/master/icons/RH.png?raw=true)](http://www.angusj.com/resourcehacker/)
-[![SumatraPDF](https://github.com/bitRAKE/bitRAKE/blob/master/icons/SumatraPDF.png?raw=true)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
-<br />
+###📡 Network & Archives| Platform | Handle/Link | Context |
+| --- | --- | --- |
+| **GitHub** | [bitRAKE](https://github.com/bitRAKE) | Current Repositories |
+| **ASM Community** | [Archive](https://www.google.com/search?q=https://asmcommunity.net) | Historical x86 Discussions |
+| **flatassembler** | [Profile](https://board.flatassembler.net/search.php?search_author=bitRAKE) | Recent Assembly Research |
+| **Twitter** | [@bitRAKE_hacked](https://twitter.com/bitRAKE_hacked) | Updates & Thoughts |
+| **YouTube** | [Channel Link](https://www.youtube.com/bitRAKE) | Visual Projects |
+
+###🧰 Preferred Toolchain**Development & Visualization**
+
+* todo: ... (ask me if you need a tool for something)
+* [Compiler Explorer](https://godbolt.org/) - Interactive compiler analysis
+* [FASMG](https://flatassembler.net/) - Flat Assembler 'g'
+* [ShaderToy](https://www.shadertoy.com/) - GLSL sandbox
+* [Desmos](https://www.desmos.com/) - Graphing calculator
+* [Draw.io](https://app.diagrams.net/) - Diagramming
+
+**Reference & Reading**
+
+* [Matt Godbolt](https://xania.org/) - Compiler Explorer author
+* [Sam Russell](https://www.lodsb.com/) - Binary Ninja
+* [Chris Wellons](https://nullprogram.com/) - skeeto
+* [Strchr](http://www.strchr.com/) - Programming Blog
+* [Alois Kraus](https://aloiskraus.wordpress.com/) - Performance is everything.
+* [Daniel Lemire](https://lemire.me/blog/) - Computer Science/Optimization
+* [Casey Muratori](https://caseymuratori.com/contents) - Computer, Enhance!
+* [Futility Closet](https://www.futilitycloset.com/) - Curiosities
+* [greentec](https://greentec.github.io/index_en/) - (Korean) ShaderToy Blog
+* [The Buckblog](https://weblog.jamisbuck.org/) - assorted ramblings by Jamis Buck
+* ... so many more to add ...
+
+###📊 Activity Timeline (1983 - Present)```mermaid
+gantt
+    title Professional Evolution
+    dateFormat  YYYY
+    axisFormat  %Y
+    
+    section Learning
+    Self-Taught Start      :done, 1983, 1990
+    
+    section Development
+    x86 Research           :active, 1994, 2025
+    ASM Community          :2001, 2012
+    FASM/UEFI Projects     :2015, 2025
+
+```
+
 ---
-[<img align="left" alt="VSCode" width="22px" src="https://code.visualstudio.com/assets/favicon.ico" />](https://github.com/microsoft/vscode)
-[<img align="left" alt="VSStudio" width="22px" src="https://devblogs.microsoft.com/wp-content/uploads/sites/44/2019/03/visual-studio.png" />](https://visualstudio.microsoft.com/downloads/)
-[<img align="left" alt="LLVM" width="22px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/mkqbfktqzgyxikmnc5ey" />](https://llvm.org/)
-[<img align="left" alt="AMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/amd.svg" />](https://developer.amd.com/resources/developer-guides-manuals/)
-[<img align="left" alt="Intel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/intel.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
-[<img align="left" alt="Wolfram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wolframlanguage.svg" />](https://www.wolfram.com/language/)
-[<img align="left" alt="Mathematica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wolframmathematica.svg" />](https://blog.wolfram.com/)
-[<img align="left" alt="Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackexchange.svg" />](https://meta.stackexchange.com/users/824897/)
-[<img align="left" alt="Wiki" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/wikipedia.svg" />](https://en.wikipedia.org/wiki/User:BitRAKE)
-[<img align="left" alt="Win95" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows95.svg" />](https://archive.org/details/windows_95_vdi)
-[<img align="left" alt="Windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/windows.svg" />](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
-[<img align="left" alt="arxiv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/arxiv.svg" />](https://arxiv.org/archive/cs)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/dank-orb)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://ss64.com/index.html)
-<br />
----
-### 📺 Latest YouTube Videos 📸
-<!-- YOUTUBE:START -->
-- [Here comes the rain... &lpar;5k&rpar;](https://www.youtube.com/watch?v=Tf56kmEgQ3U)
-- [Before the Rain, Too &lpar;5k&rpar;](https://www.youtube.com/watch?v=gosEuURevJw)
-- [Sunrise &lpar;5k&rpar;](https://www.youtube.com/watch?v=TEMBszAObUo)
-- [Before the Rain 5K](https://www.youtube.com/watch?v=D6vXPxbaYdU)
-- [My Edited Video](https://www.youtube.com/watch?v=rHLpbPUATCM)
-<!-- YOUTUBE:END -->
----
-### 📕 Latest Blog Posts
-<!-- STACKOVERFLOW:START -->
-- [Answer by bitRAKE for Use loop and xchg instruction in assembly language to swap the element in the array](https://stackoverflow.com/questions/74394403/use-loop-and-xchg-instruction-in-assembly-language-to-swap-the-element-in-the-ar/74399447#74399447)
-- [Answer by bitRAKE for my resizable background is not working after adding frame on the canvas](https://stackoverflow.com/questions/73956120/my-resizable-background-is-not-working-after-adding-frame-on-the-canvas/73956265#73956265)
-- [Answer by bitRAKE for How to set text button in tkinter as output from another method within same class?](https://stackoverflow.com/questions/73954400/how-to-set-text-button-in-tkinter-as-output-from-another-method-within-same-clas/73955111#73955111)
-- [Answer by bitRAKE for Tkinter - Center the frame in a row](https://stackoverflow.com/questions/73952040/tkinter-center-the-frame-in-a-row/73952078#73952078)
-- [Answer by bitRAKE for Functioning search bar for treeview in tkinter](https://stackoverflow.com/questions/73931046/functioning-search-bar-for-treeview-in-tkinter/73951482#73951482)
-<!-- STACKOVERFLOW:END -->
----
-<!--START_SECTION:table-->
-<details>
-<summary>Online Tools:</summary>
 
-- [Compiler Explorer](https://gcc.godbolt.org/)
-- [ShaderToy](https://www.shadertoy.com/)
-- [The Book of Shaders](https://thebookofshaders.com/)
-- [draw.io](https://diagrams.net)
-- [JSON Edit](http://jsoneditoronline.org/)
-- [Desmos](https://www.desmos.com/)
-- [CodePen](https://codepen.io/)
-- [Observable](https://observablehq.com/)
-
-</details>
-<details>
-<summary>Blogs to Read:</summary>
-
-- [Stuffed Cow](https://blog.stuffedcow.net/)
-- [Futility Closet](https://www.futilitycloset.com/)
-- [strchr](https://www.strchr.com/)
-- [Daniel Lemire](https://lemire.me/blog/)
-
-</details>
-<details>
-<summary>Forums:</summary>
-
-- [fasm](https://board.flatassembler.net/index.php)
-- [encode](https://encode.su/forum.php)
-
-</details>
-<!--END_SECTION:table-->
-<br />
-<img align="left" alt="bitRAKE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitRAKE&show_icons=true&hide_border=true" />
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)][donate]
-<br />
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q62RV22AKAX7A)
-
-
-[website]: https://bitRAKE.code
-[twitter]: https://twitter.com/_bitRAKE_
-[youtube]: https://youtube.com/bitRAKE
-[instagram]: https://instagram.com/bitRAKE
-[facebook]: https://www.facebook.com/bitRAKE
-[donate]: https://paypal.me/bitRAKE
+*Contact:* `[MyHandle]@gmail.com`
