@@ -33,7 +33,8 @@ graph TD
 
 ```
 
-###📡 Network & Archives| Platform | Handle/Link | Context |
+###📡 Network & Archives
+| Platform | Handle/Link | Context |
 | --- | --- | --- |
 | **GitHub** | [bitRAKE](https://github.com/bitRAKE) | Current Repositories |
 | **ASM Community** | [Archive](https://www.google.com/search?q=https://asmcommunity.net) | Historical x86 Discussions |
@@ -64,7 +65,8 @@ graph TD
 * [The Buckblog](https://weblog.jamisbuck.org/) - assorted ramblings by Jamis Buck
 * ... so many more to add ...
 
-###📊 Activity Timeline (1983 - Present)```mermaid
+###📊 Activity Timeline (1983 - Present)
+```mermaid
 gantt
     title Professional Evolution
     dateFormat  YYYY
