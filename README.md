@@ -33,7 +33,8 @@ graph TD
 
 ```
 
-###📡 Network & Archives
+### 📡 Network & Archives
+
 | Platform | Handle/Link | Context |
 | --- | --- | --- |
 | **GitHub** | [bitRAKE](https://github.com/bitRAKE) | Current Repositories |
@@ -42,7 +43,7 @@ graph TD
 | **Twitter** | [@bitRAKE_hacked](https://twitter.com/bitRAKE_hacked) | Updates & Thoughts |
 | **YouTube** | [Channel Link](https://www.youtube.com/bitRAKE) | Visual Projects |
 
-###🧰 Preferred Toolchain
+### 🧰 Preferred Toolchain
 
 **Development & Visualization**
 
@@ -67,7 +68,8 @@ graph TD
 * [The Buckblog](https://weblog.jamisbuck.org/) - assorted ramblings by Jamis Buck
 * ... so many more to add ...
 
-###📊 Activity Timeline (1983 - Present)
+### 📊 Activity Timeline (1983 - Present)
+
 ```mermaid
 gantt
     title Professional Evolution
