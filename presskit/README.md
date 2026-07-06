@@ -9,6 +9,17 @@ This pack is built from the **bitRAKE mark** (crossed drill-bit + rake) and a co
 - White/black mono variants
 - White outline variant (good for emboss/laser/etch mockups)
 
+Use the mono marks as a theme-aware pair when embedding the logo in GitHub
+Markdown or profile READMEs:
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="01_logo/bitRAKE_mark_white_2048.png">
+  <source media="(prefers-color-scheme: light)" srcset="01_logo/bitRAKE_mark_black_2048.png">
+  <img alt="bitRAKE mark" src="01_logo/bitRAKE_mark_black_2048.png" width="96">
+</picture>
+```
+
 ### 02_avatars/
 - Square avatars (dark + light), 1024/512/256
 
