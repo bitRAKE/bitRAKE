@@ -1,4 +1,12 @@
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="presskit/01_logo/bitRAKE_mark_white_2048.png">
+    <source media="(prefers-color-scheme: light)" srcset="presskit/01_logo/bitRAKE_mark_black_2048.png">
+    <img alt="bitRAKE mark" src="presskit/01_logo/bitRAKE_mark_black_2048.png" width="96">
+  </picture>
+</p>
+
 # Rickey Bowers Jr. (bitRAKE)
 
 > Independent Software Developer | x86 & Number Theory Researcher | Idaho Falls, ID
@@ -42,6 +50,10 @@ graph TD
 | **flatassembler** | [Profile](https://board.flatassembler.net/search.php?search_author=bitRAKE) | Recent Assembly Research |
 | **Twitter** | [@bitRAKE_hacked](https://twitter.com/bitRAKE_hacked) | Updates & Thoughts |
 | **YouTube** | [Channel Link](https://www.youtube.com/bitRAKE) | Visual Projects |
+
+### 🎨 Press Kit
+
+The [press kit](presskit/) includes light and dark variants of the bitRAKE mark, avatars, banners, wallpapers, and reusable background patterns. The profile mark above uses `prefers-color-scheme` so the black mark renders on light GitHub themes and the white mark renders on dark themes.
 
 ### 🧰 Preferred Toolchain
 
